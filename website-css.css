@@ -18,6 +18,10 @@ section{
     padding-top: 1.5%;
 }
 
+a.styleless{
+    color: black;
+}
+
 .block{
     margin-top: 1%;
     margin-bottom: 2%;
